@@ -1,0 +1,11 @@
+git add . (Guardar cambios en git)
+
+git commit -m (Nombrar esos cambios de git)
+
+git status (muestra si se guardaron los cambios)
+
+git branch "Nombre" (Nombre de la nueva rama)
+
+git checkout master (volver a rama principal)
+
+git branch -l (Muestra todas las ramas)
